@@ -1,13 +1,4 @@
-# Stopwatch
-Instruction in README.txt file
-
-
- - start
-
- - pauza
-
- - stop
-
- - skasuj wszystko (łącznie z archiwum)
-
-archiwum - zobacz wcześniejsze pomiary
+1. Download repo
+2. npm install
+3. ng serve
+4. open localhost:4200
